@@ -1,4 +1,10 @@
-o(*￣▽￣*)ブ Hi~~~
+Hi
+...(*￣０￣)ノ 🖐🖐🖐
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-2197f8?style=for-the-badge&logo=Blogger&logoColor=white&link=https://notepad96.tistory.com/)](https://notepad96.tistory.com/) 　　 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:notepad1029@gmail.com)](mailto:notepad1029@gmail.com)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Notepad96)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Notepad96/Notepad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
